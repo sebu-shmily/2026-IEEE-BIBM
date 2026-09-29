@@ -1,0 +1,137 @@
+Optimization Log
+========================================
+
+#1: SS Library | len=8 | seq=ATCCTTGC | f=0.0000 | GC=50.0%
+#2: SS Library | len=8 | seq=ACGTTCAG | f=0.0000 | GC=50.0%
+#3: SS Library | len=8 | seq=GAGAGGAA | f=0.0000 | GC=50.0%
+#4: SS Library | len=8 | seq=GCGAAGAT | f=0.0000 | GC=50.0%
+#5: SS Library | len=8 | seq=TTCTCGCA | f=0.0000 | GC=50.0%
+#6: SS Library | len=8 | seq=TGACACTG | f=0.0000 | GC=50.0%
+#7: SS Library | len=8 | seq=GCCAGATT | f=0.0000 | GC=50.0%
+#8: SS Library | len=8 | seq=GAATGCCT | f=0.0000 | GC=50.0%
+#9: SS Library | len=8 | seq=AGATGTGG | f=0.0000 | GC=50.0%
+#10: SS Library | len=8 | seq=TCGAACTG | f=0.0000 | GC=50.0%
+#11: SS Library | len=9 | seq=TAGTCCGTC | f=0.0000 | GC=55.6%
+#12: SS Library | len=9 | seq=TTCCACATC | f=0.0000 | GC=44.4%
+#13: SS Library | len=9 | seq=TTCTGCCGA | f=0.0000 | GC=55.6%
+#14: SS Library | len=9 | seq=AGAGAACTC | f=0.0000 | GC=44.4%
+#15: SS Library | len=9 | seq=AGCAATCGA | f=0.0000 | GC=44.4%
+#16: SS Library | len=9 | seq=GCTGCATTC | f=0.0000 | GC=55.6%
+#17: SS Library | len=9 | seq=GAAGCCATC | f=0.0000 | GC=55.6%
+#18: SS Library | len=9 | seq=CGTTGTACG | f=0.0000 | GC=55.6%
+#19: SS Library | len=9 | seq=CTATCTCAG | f=0.0000 | GC=44.4%
+#20: SS Library | len=10 | seq=ATCTGTCGTA | f=0.0000 | GC=40.0%
+#21: SS Library | len=10 | seq=ATGCCTAGCG | f=0.0000 | GC=60.0%
+#22: SS Library | len=10 | seq=CACAGGATTC | f=0.0000 | GC=50.0%
+#23: SS Library | len=10 | seq=TTGACGGTAG | f=0.0000 | GC=50.0%
+#24: SS Library | len=10 | seq=CGTCGGAATA | f=0.0000 | GC=50.0%
+#25: SS Library | len=10 | seq=GTGGAGAGCA | f=0.0000 | GC=60.0%
+#26: SS Library | len=10 | seq=TGCAGAACAA | f=0.0000 | GC=40.0%
+#27: SS Library | len=10 | seq=GCTAAGCTGG | f=0.0000 | GC=60.0%
+#28: SS Library | len=10 | seq=CGAGACTTAA | f=0.0000 | GC=40.0%
+#29: SS Library | len=10 | seq=AGCAGTTAAC | f=0.0000 | GC=40.0%
+#30: TFS Library | len=14 | seq=TCTTCTTCTCTCCTCTTTTTTCTCCTCTCTTCTTCT | f=0.0000 | GC=50.0%
+#31: TFS Library | len=14 | seq=TTCTTCTTCTCTCCTCTTTTTTCTCCTCTCTTCTTCTT | f=0.0000 | GC=50.0%
+#32: TFS Library | len=14 | seq=TTTCTTCTTCTCTCCTCTTTTTTCTCCTCTCTTCTTCTTT | f=0.0000 | GC=50.0%
+#33: TFS Library | len=14 | seq=TTCCTTCTCCTTTCCTTTTTTCCTTTCCTCTTCCTT | f=35.0000 | GC=50.0%
+#34: TFS Library | len=14 | seq=TTTCCTTCTCCTTTCCTTTTTTCCTTTCCTCTTCCTTT | f=35.0000 | GC=50.0%
+#35: TFS Library | len=14 | seq=TTTTCCTTCTCCTTTCCTTTTTTCCTTTCCTCTTCCTTTT | f=35.0000 | GC=50.0%
+#36: TFS Library | len=14 | seq=TCTTTCTCTTTCCTCTTTTTTCTCCTTTCTCTTTCT | f=50.0000 | GC=42.9%
+#37: TFS Library | len=14 | seq=TTCTTTCTCTTTCCTCTTTTTTCTCCTTTCTCTTTCTT | f=50.0000 | GC=42.9%
+#38: TFS Library | len=14 | seq=TTTCTTTCTCTTTCCTCTTTTTTCTCCTTTCTCTTTCTTT | f=50.0000 | GC=42.9%
+#39: TFS Library | len=15 | seq=TCCTTTCTCTTTCCTCTTTTTTCTCCTTTCTCTTTCCT | f=50.0000 | GC=46.7%
+#40: TFS Library | len=15 | seq=TTCCTTTCTCTTTCCTCTTTTTTCTCCTTTCTCTTTCCTT | f=50.0000 | GC=46.7%
+#41: TFS Library | len=15 | seq=TTTCCTTTCTCTTTCCTCTTTTTTCTCCTTTCTCTTTCCTTT | f=50.0000 | GC=46.7%
+#42: TFS Library | len=15 | seq=TTTTCTTCTCTCCTTCTTTTTTCTTCCTCTCTTCTTTT | f=50.0000 | GC=40.0%
+#43: TFS Library | len=15 | seq=TTTTTCTTCTCTCCTTCTTTTTTCTTCCTCTCTTCTTTTT | f=50.0000 | GC=40.0%
+#44: TFS Library | len=15 | seq=TTTTTTCTTCTCTCCTTCTTTTTTCTTCCTCTCTTCTTTTTT | f=50.0000 | GC=40.0%
+#45: TFS Library | len=15 | seq=TTTCCTCCTTCTCTTCTTTTTTCTTCTCTTCCTCCTTT | f=50.0000 | GC=46.7%
+#46: TFS Library | len=15 | seq=TTTTCCTCCTTCTCTTCTTTTTTCTTCTCTTCCTCCTTTT | f=50.0000 | GC=46.7%
+#47: TFS Library | len=15 | seq=TTTTTCCTCCTTCTCTTCTTTTTTCTTCTCTTCCTCCTTTTT | f=50.0000 | GC=46.7%
+#48: TFS Library | len=15 | seq=TCTCTTCCTTCTTCTCTTTTTTCTCTTCTTCCTTCTCT | f=50.0000 | GC=46.7%
+#49: TFS Library | len=15 | seq=TTCTCTTCCTTCTTCTCTTTTTTCTCTTCTTCCTTCTCTT | f=50.0000 | GC=46.7%
+#50: TFS Library | len=15 | seq=TTTCTCTTCCTTCTTCTCTTTTTTCTCTTCTTCCTTCTCTTT | f=50.0000 | GC=46.7%
+#51: TFS Library | len=16 | seq=TTCTTTCCTTCCTTCTCTTTTTTCTCTTCCTTCCTTTCTT | f=50.0000 | GC=43.8%
+#52: TFS Library | len=16 | seq=TTTCTTTCCTTCCTTCTCTTTTTTCTCTTCCTTCCTTTCTTT | f=50.0000 | GC=43.8%
+#53: TFS Library | len=16 | seq=TTTTCTTTCCTTCCTTCTCTTTTTTCTCTTCCTTCCTTTCTTTT | f=50.0000 | GC=43.8%
+#54: TFS Library | len=16 | seq=TCCTTCCTTCTCCTTTCTTTTTTCTTTCCTCTTCCTTCCT | f=50.0000 | GC=50.0%
+#55: TFS Library | len=16 | seq=TTCCTTCCTTCTCCTTTCTTTTTTCTTTCCTCTTCCTTCCTT | f=50.0000 | GC=50.0%
+#56: TFS Library | len=16 | seq=TTTCCTTCCTTCTCCTTTCTTTTTTCTTTCCTCTTCCTTCCTTT | f=50.0000 | GC=50.0%
+#57: TFS Library | len=16 | seq=TCCTCTTTCTTCCTTTCTTTTTTCTTTCCTTCTTTCTCCT | f=50.0000 | GC=43.8%
+#58: TFS Library | len=16 | seq=TTCCTCTTTCTTCCTTTCTTTTTTCTTTCCTTCTTTCTCCTT | f=50.0000 | GC=43.8%
+#59: TFS Library | len=16 | seq=TTTCCTCTTTCTTCCTTTCTTTTTTCTTTCCTTCTTTCTCCTTT | f=50.0000 | GC=43.8%
+#60: TFS Library | len=16 | seq=TTCTTCTTTCTTCCTCCTTTTTTCCTCCTTCTTTCTTCTT | f=50.0000 | GC=43.8%
+#61: TFS Library | len=16 | seq=TTTCTTCTTTCTTCCTCCTTTTTTCCTCCTTCTTTCTTCTTT | f=50.0000 | GC=43.8%
+#62: TFS Library | len=16 | seq=TTTTCTTCTTTCTTCCTCCTTTTTTCCTCCTTCTTTCTTCTTTT | f=50.0000 | GC=43.8%
+#63: Primer | len=12 | seq=GCAGATCCGCAT | f=0.0000 | GC=58.3%
+#64: Primer | len=12 | seq=GGCGACATTCTT | f=0.0000 | GC=50.0%
+#65: Primer | len=12 | seq=TCTGTGTAGGAG | f=0.0000 | GC=50.0%
+#66: Primer | len=12 | seq=TCTAACGTCGTA | f=0.0000 | GC=41.7%
+#67: Primer | len=12 | seq=CGTGCACTGAGT | f=0.0000 | GC=58.3%
+#68: Primer | len=12 | seq=AAGTAGCCTCTG | f=0.0000 | GC=50.0%
+#69: Primer | len=12 | seq=CGCAGTATTGTA | f=0.0000 | GC=41.7%
+#70: Primer | len=12 | seq=AGCGGTAATTAC | f=0.0000 | GC=41.7%
+#71: Primer | len=12 | seq=GAAGGTGACTAA | f=0.0000 | GC=41.7%
+#72: Primer | len=12 | seq=ACGCCTGCTATC | f=0.0000 | GC=58.3%
+#73: Primer | len=12 | seq=TGCGCAAGACCA | f=0.0000 | GC=58.3%
+#74: Primer | len=12 | seq=GCCAAGTCCTTA | f=0.0000 | GC=50.0%
+#75: Primer | len=12 | seq=CTCGCTTGATCA | f=0.0000 | GC=50.0%
+#76: Primer | len=12 | seq=TATGGTTGCTGA | f=0.0000 | GC=41.7%
+#77: Primer | len=12 | seq=CCACTTCATGCA | f=0.0000 | GC=50.0%
+#78: Primer | len=12 | seq=GCACATGTAAGT | f=0.0000 | GC=41.7%
+#79: Primer | len=12 | seq=TTGGTGGTATGA | f=0.0000 | GC=41.7%
+#80: Primer | len=13 | seq=CCTCATCAGTATC | f=0.0000 | GC=46.2%
+#81: Primer | len=13 | seq=CACTAGGCGATTC | f=0.0000 | GC=53.8%
+#82: Primer | len=13 | seq=TGAACCATATCCG | f=0.0000 | GC=46.2%
+#83: Primer | len=13 | seq=GTCTAACCTGGTA | f=0.0000 | GC=46.2%
+#84: Primer | len=13 | seq=CAACGACAATCTG | f=0.0000 | GC=46.2%
+#85: Primer | len=13 | seq=GAGTGCTACATCG | f=0.0000 | GC=53.8%
+#86: Primer | len=13 | seq=GGTCTTCTCCACA | f=0.0000 | GC=53.8%
+#87: Primer | len=13 | seq=GGATCCATCCTAA | f=0.0000 | GC=46.2%
+#88: Primer | len=13 | seq=GTTATGCACGCTG | f=0.0000 | GC=53.8%
+#89: Primer | len=13 | seq=GTAGATCAACCGA | f=0.0000 | GC=46.2%
+#90: Primer | len=13 | seq=GCCATTAACGCGT | f=0.0000 | GC=53.8%
+#91: Primer | len=13 | seq=AGACTGCAATTGG | f=0.0000 | GC=46.2%
+#92: Primer | len=13 | seq=GTCAAGCCTCTGT | f=0.0000 | GC=53.8%
+#93: Primer | len=13 | seq=CACGAGCATGTTG | f=0.0000 | GC=53.8%
+#94: Primer | len=13 | seq=CTCACACTGGACT | f=0.0000 | GC=53.8%
+#95: Primer | len=14 | seq=TGGACCTCGATTCT | f=0.0000 | GC=50.0%
+#96: Primer | len=14 | seq=TCTAAGCGGCTCAT | f=0.0000 | GC=50.0%
+#97: Primer | len=14 | seq=CGCTGGCTATGGTT | f=0.0000 | GC=57.1%
+#98: Primer | len=14 | seq=AACGATCTAGGACA | f=0.0000 | GC=42.9%
+#99: Primer | len=14 | seq=ACGGCACCTATTAG | f=0.0000 | GC=50.0%
+#100: Primer | len=14 | seq=CCATGTAGCAAGCC | f=0.0000 | GC=57.1%
+#101: Primer | len=14 | seq=TCTCCGACTTGTCG | f=0.0000 | GC=57.1%
+#102: Primer | len=14 | seq=GCATTACAGGCGAC | f=0.0000 | GC=57.1%
+#103: Primer | len=14 | seq=GGATCCTGAACTTC | f=0.0000 | GC=50.0%
+#104: Primer | len=14 | seq=GCTAGTTATCCACG | f=0.0000 | GC=50.0%
+#105: Primer | len=15 | seq=GACGGTGCGTATCAG | f=0.0000 | GC=60.0%
+#106: Primer | len=15 | seq=TAGATCGAGGTTATC | f=0.0000 | GC=40.0%
+#107: Primer | len=15 | seq=TTCGCGACACCAATA | f=0.0000 | GC=46.7%
+#108: Primer | len=15 | seq=GGTCGAATTAAGATG | f=0.0000 | GC=40.0%
+#109: Primer | len=15 | seq=CCGCAACCACATCAA | f=0.0000 | GC=53.3%
+#110: Primer | len=15 | seq=GCCACGAGAAGTGCT | f=0.0000 | GC=60.0%
+#111: Primer | len=16 | seq=TCTCACTCAATCACGG | f=0.0000 | GC=50.0%
+#112: Primer | len=16 | seq=TCTACCTCATAGCGGA | f=0.0000 | GC=50.0%
+#113: Primer | len=16 | seq=ATCAGAACGACTGAAG | f=0.0000 | GC=43.8%
+#114: Primer | len=16 | seq=GATGGTGGATATGCTT | f=0.0000 | GC=43.8%
+#115: Primer | len=16 | seq=GCAGATGTGTAATGTG | f=0.0000 | GC=43.8%
+#116: Primer | len=16 | seq=TCAGGCGGTGAACAGA | f=0.0000 | GC=56.3%
+#117: Primer | len=16 | seq=AGTTGACCTGCGTCTG | f=0.0000 | GC=56.3%
+#118: Primer | len=16 | seq=CCAGTATGTATGTCAG | f=0.0000 | GC=43.8%
+#119: Primer | len=16 | seq=GCTAAGCGAGTAGGTG | f=0.0000 | GC=56.3%
+#120: Primer | len=17 | seq=GTGAACGCCGTGATAAT | f=0.0000 | GC=47.1%
+#121: Primer | len=17 | seq=ATAAGCGACTATGGCAG | f=0.0000 | GC=47.1%
+#122: Primer | len=17 | seq=CGAGCATTCGCAGGTCT | f=0.0000 | GC=58.8%
+#123: Primer | len=17 | seq=ATCCTATTCCGTACATG | f=0.0000 | GC=41.2%
+#124: Primer | len=17 | seq=CCATTACCGGTAGTATT | f=0.0000 | GC=41.2%
+#125: Primer | len=17 | seq=TAACCGCGCACAGTTAT | f=0.0000 | GC=47.1%
+#126: Primer | len=17 | seq=TCATCTCCTCTGGCTAA | f=0.0000 | GC=47.1%
+#127: Primer | len=17 | seq=GCTAGCAATGAATTGAG | f=0.0000 | GC=41.2%
+#128: Primer | len=18 | seq=TGATAGGAAGCTACGCTG | f=0.0000 | GC=50.0%
+#129: Primer | len=18 | seq=GTAGTCGGTCTGCACCTT | f=0.0000 | GC=55.6%
+#130: Primer | len=18 | seq=CGGTGTATTAGCGGTATA | f=0.0000 | GC=44.4%
+#131: Primer | len=18 | seq=AGCGACGACACGTTATAT | f=0.0000 | GC=44.4%
+#132: Primer | len=18 | seq=GCCAATCTCATAAGGCTA | f=0.0000 | GC=44.4%
+#133: Primer | len=18 | seq=TCCGCAAGTTCATGACGT | f=0.0000 | GC=50.0%
+#134: Primer | len=18 | seq=AGAATGCATCGTGAGCAA | f=0.0000 | GC=44.4%

@@ -1,0 +1,200 @@
+
+============================================================
+PHASE 1: Contact Primer Library
+============================================================
+>>> Verifying fixed Contact sequences...
+  #1: GACCGATGAC OK
+  #2: GTCAGTGTAG OK
+  #3: CATTCGATAG OK
+  #4: CGACCAATGC OK
+
+>>> Optimizing Contact length=8 nt...
+  [ 1/ 8] GATCGGAA      f=0.0000  GC=50.0%
+  [ 2/ 8] CCACTGTA      f=0.0000  GC=50.0%
+  [ 3/ 8] ATCCGTGA      f=0.0000  GC=50.0%
+  [ 4/ 8] TGCTCCAA      f=0.0000  GC=50.0%
+  [ 5/ 8] CCTAGCAA      f=0.0000  GC=50.0%
+  [ 6/ 8] TCGTATGG      f=0.0000  GC=50.0%
+  [ 7/ 8] TGTTGCGA      f=0.0000  GC=50.0%
+  [ 8/ 8] GCGTTACT      f=0.0000  GC=50.0%
+
+>>> Optimizing Contact length=9 nt...
+  [ 1/ 8] TGAGAGCAT     f=0.0000  GC=44.4%
+  [ 2/ 8] AGATACCGC     f=0.0000  GC=55.6%
+  [ 3/ 8] GAGAAGATG     f=0.0000  GC=44.4%
+  [ 4/ 8] AGGTAGTAC     f=0.0000  GC=44.4%
+  [ 5/ 8] CGCATGTAT     f=0.0000  GC=44.4%
+  [ 6/ 8] GATTCGGTC     f=0.0000  GC=55.6%
+  [ 7/ 8] AGACGTGAA     f=0.0000  GC=44.4%
+  [ 8/ 8] GAAGGCACT     f=0.0000  GC=55.6%
+
+>>> Optimizing Contact length=10 nt...
+  [ 1/ 8] CACTTAAGCA    f=0.0000  GC=40.0%
+  [ 2/ 8] TTGTGCTGTG    f=0.0000  GC=50.0%
+  [ 3/ 8] ATGAGCCTCT    f=0.0000  GC=50.0%
+  [ 4/ 8] TGTCAATACG    f=0.0000  GC=40.0%
+  [ 5/ 8] TAGCGACTCG    f=0.0000  GC=60.0%
+  [ 6/ 8] SKIP conflict: ACAAGAGGTC
+  [ 7/ 8] CGGTAATTGC    f=0.0000  GC=50.0%
+  [ 8/ 8] CACGGTTATG    f=0.0000  GC=50.0%
+>>> Contact complete: 27 seqs
+
+============================================================
+PHASE 2: Triplex Primer Library
+============================================================
+>>> Verifying fixed Triplex sequences...
+  #1: OK
+
+>>> Triplex LEFT=14 (full=40 nt)...
+  [ 2/ 8 T=1] LEFT=TCTCCTTCTTCTTC   f=0.0000  GC=42.9%
+  [ 2/ 8 T=2] LEFT=TCTCCTTCTTCTTC   f=0.0000  GC=42.9%
+  [ 2/ 8 T=3] LEFT=TCTCCTTCTTCTTC   f=0.0000  GC=42.9%
+  [ 3/ 8 T=1] LEFT=TTTCCTTCTTCTCC   f=50.0000  GC=42.9%
+  [ 3/ 8 T=2] LEFT=TTTCCTTCTTCTCC   f=50.0000  GC=42.9%
+  [ 3/ 8 T=3] LEFT=TTTCCTTCTTCTCC   f=50.0000  GC=42.9%
+  [ 4/ 8 T=1] LEFT=CTCTTCTCCTTTCC   f=50.0000  GC=50.0%
+  [ 4/ 8 T=2] LEFT=CTCTTCTCCTTTCC   f=50.0000  GC=50.0%
+  [ 4/ 8 T=3] LEFT=CTCTTCTCCTTTCC   f=50.0000  GC=50.0%
+  [ 5/ 8 T=1] LEFT=TTTCTCTCTCCTTC   f=50.0000  GC=42.9%
+  [ 5/ 8 T=2] LEFT=TTTCTCTCTCCTTC   f=50.0000  GC=42.9%
+  [ 5/ 8 T=3] LEFT=TTTCTCTCTCCTTC   f=50.0000  GC=42.9%
+  [ 7/ 8 T=1] LEFT=CCTCTCTCCTTCTC   f=50.0000  GC=57.1%
+  [ 7/ 8 T=2] LEFT=CCTCTCTCCTTCTC   f=50.0000  GC=57.1%
+  [ 7/ 8 T=3] LEFT=CCTCTCTCCTTCTC   f=50.0000  GC=57.1%
+  [ 8/ 8 T=1] LEFT=CTTCCTCCTCCTTC   f=50.0000  GC=57.1%
+  [ 8/ 8 T=2] LEFT=CTTCCTCCTCCTTC   f=50.0000  GC=57.1%
+  [ 8/ 8 T=3] LEFT=CTTCCTCCTCCTTC   f=50.0000  GC=57.1%
+
+>>> Triplex LEFT=15 (full=42 nt)...
+  [ 3/ 8 T=1] LEFT=CTTTCCTTTCCTTCC  f=35.0000  GC=46.7%
+  [ 3/ 8 T=2] LEFT=CTTTCCTTTCCTTCC  f=35.0000  GC=46.7%
+  [ 3/ 8 T=3] LEFT=CTTTCCTTTCCTTCC  f=35.0000  GC=46.7%
+  [ 4/ 8 T=1] LEFT=TTTCCTCTCTTCTCC  f=50.0000  GC=46.7%
+  [ 4/ 8 T=2] LEFT=TTTCCTCTCTTCTCC  f=50.0000  GC=46.7%
+  [ 4/ 8 T=3] LEFT=TTTCCTCTCTTCTCC  f=50.0000  GC=46.7%
+  [ 8/ 8 T=1] LEFT=CTTTCTCTCCTTTCC  f=50.0000  GC=46.7%
+  [ 8/ 8 T=2] LEFT=CTTTCTCTCCTTTCC  f=50.0000  GC=46.7%
+  [ 8/ 8 T=3] LEFT=CTTTCTCTCCTTTCC  f=50.0000  GC=46.7%
+
+>>> Triplex LEFT=16 (full=44 nt)...
+  [ 1/ 8 T=1] LEFT=CTTCTTCCTCTCCTCC  f=0.0000  GC=56.3%
+  [ 1/ 8 T=2] LEFT=CTTCTTCCTCTCCTCC  f=0.0000  GC=56.3%
+  [ 1/ 8 T=3] LEFT=CTTCTTCCTCTCCTCC  f=0.0000  GC=56.3%
+  [ 2/ 8 T=1] LEFT=CCTCTCCTCTCCTTTC  f=50.0000  GC=56.3%
+  [ 2/ 8 T=2] LEFT=CCTCTCCTCTCCTTTC  f=50.0000  GC=56.3%
+  [ 2/ 8 T=3] LEFT=CCTCTCCTCTCCTTTC  f=50.0000  GC=56.3%
+  [ 3/ 8 T=1] LEFT=CTCCTCCTTCTTCCTC  f=50.0000  GC=56.3%
+  [ 3/ 8 T=2] LEFT=CTCCTCCTTCTTCCTC  f=50.0000  GC=56.3%
+  [ 3/ 8 T=3] LEFT=CTCCTCCTTCTTCCTC  f=50.0000  GC=56.3%
+  [ 7/ 8 T=1] LEFT=TCCTCTTCTCTTTCTC  f=50.0000  GC=43.8%
+  [ 7/ 8 T=2] LEFT=TCCTCTTCTCTTTCTC  f=50.0000  GC=43.8%
+  [ 7/ 8 T=3] LEFT=TCCTCTTCTCTTTCTC  f=50.0000  GC=43.8%
+>>> Triplex complete: 40 seqs
+
+============================================================
+PHASE 3: Universal Primer Library
+============================================================
+>>> Verifying fixed primers...
+  #1: GCTTAGAGATTCCTG OK
+  #2: GCAGTAGTTCATCGT OK
+  #3: AGGTCCTGGCTTGAC OK
+  #4: GCATTGACAGTGAGC OK
+
+>>> Optimizing Primer length=12 nt...
+  [#63 added] GTGTCCGAGAGT        f=0.0000  GC=58.3%
+  [#64 added] CGCCGATCTACA        f=0.0000  GC=58.3%
+  [#65 added] GTTCATCCTTCA        f=0.0000  GC=41.7%
+  [#66 added] AACATATCACGC        f=0.0000  GC=41.7%
+  [#67 added] AAGCGCCTATAG        f=0.0000  GC=50.0%
+  [#68 added] CGAATCCAGGTC        f=0.0000  GC=58.3%
+  [#69 added] TCGCCAGATGTA        f=0.0000  GC=50.0%
+  [#70 added] GAGCAAGCAGTT        f=0.0000  GC=50.0%
+  [#71 added] ACAGACGTCAAG        f=0.0000  GC=50.0%
+  [#72 added] GCCTCCTGTTAA        f=0.0000  GC=50.0%
+  [#73 added] ATTCAGCCATTG        f=0.0000  GC=41.7%
+  [#74 added] GTGGACCACTAG        f=0.0000  GC=58.3%
+  [#75 added] ATGACTCGAACC        f=0.0000  GC=50.0%
+  [#76 added] GGAAGTTCTATC        f=0.0000  GC=41.7%
+  Length 12 done
+
+>>> Optimizing Primer length=13 nt...
+  [#77 added] AGTTCGCCTTACC       f=0.0000  GC=53.8%
+  [#78 added] TTAGGCTAGACGG       f=0.0000  GC=53.8%
+  [#79 added] ACGACTGATATGC       f=0.0000  GC=46.2%
+  [#80 added] GCACAAGCTCACA       f=0.0000  GC=53.8%
+  [#81 added] GTGCGTAGTGTAC       f=0.0000  GC=53.8%
+  [#82 added] GGAGCAATCGTGA       f=0.0000  GC=53.8%
+  [#83 added] TATACAGTGGAGG       f=0.0000  GC=46.2%
+  [#84 added] AGCGAGTACCTCT       f=0.0000  GC=53.8%
+  [#85 added] TGGCGTTAATGGT       f=0.0000  GC=46.2%
+  [#86 added] AAGTGCTTCAGCT       f=0.0000  GC=46.2%
+  [#87 added] CTGGTCTTCCATG       f=0.0000  GC=53.8%
+  [#88 added] TCTGCAACCTACC       f=0.0000  GC=53.8%
+  Length 13 done
+
+>>> Optimizing Primer length=14 nt...
+  [#89 added] CATCACCACTATTC      f=0.0000  GC=42.9%
+  [#90 added] GCCTCGGACTTACT      f=0.0000  GC=57.1%
+  [#91 added] GAGCTTAGTTAGCA      f=0.0000  GC=42.9%
+  [#92 added] CCACAATTATCTCC      f=0.0000  GC=42.9%
+  [#93 added] AATGTGTGAACTGG      f=0.0000  GC=42.9%
+  [#94 added] CGTTGTACCGCTCT      f=0.0000  GC=57.1%
+  [#95 added] ACTCATTCGAGAGG      f=0.0000  GC=50.0%
+  [#96 added] CTACGGCGATTCTC      f=0.0000  GC=57.1%
+  [#97 added] CGTCGCAAGCGTAT      f=0.0000  GC=57.1%
+  [#98 added] TCTGCCTAGACTCT      f=0.0000  GC=50.0%
+  [#99 added] ATGGCACGATACAT      f=0.0000  GC=42.9%
+  [#100 added] AGATCAACAGCTGG      f=0.0000  GC=50.0%
+  Length 14 done
+
+>>> Optimizing Primer length=15 nt...
+  [#101 added] TCCGTTAAGTTGGTC     f=0.0000  GC=46.7%
+  [#102 added] CGGATACACAGAACA     f=0.0000  GC=46.7%
+  [#103 added] ATCAACGCCTGCTAC     f=0.0000  GC=53.3%
+  Length 15 done
+
+>>> Optimizing Primer length=16 nt...
+  [#104 added] CATGAACGTAAGCCGA    f=0.0000  GC=50.0%
+  [#105 added] TACTGGAGACTCAGTG    f=0.0000  GC=50.0%
+  [#106 added] CGATCCTTATGCTTGT    f=0.0000  GC=43.8%
+  [#107 added] TTATACGGTGCACGAT    f=0.0000  GC=43.8%
+  [#108 added] GATGCGTCAAGTGCCT    f=0.0000  GC=56.3%
+  [#109 added] TCACTCTGTGTGCGAT    f=0.0000  GC=50.0%
+  Length 16 done
+
+>>> Optimizing Primer length=17 nt...
+  [#110 added] CGACATCTTCAGGCTGA   f=0.0000  GC=52.9%
+  [#111 added] TATCCACGTGTCACTAC   f=0.0000  GC=47.1%
+  [#112 added] AGCGCCATACAATTGAA   f=0.0000  GC=41.2%
+  [#113 added] TCCAGAAGGTGAACCTA   f=0.0000  GC=47.1%
+  [#114 added] CGCACGAATGGACGATA   f=0.0000  GC=52.9%
+  [#115 added] TACACCGATGCCTAGTT   f=0.0000  GC=47.1%
+  [#116 added] GTACTTGACTGACCACC   f=0.0000  GC=52.9%
+  [#117 added] CGGTTAAGGAGTCCTAC   f=0.0000  GC=52.9%
+  [#118 added] GTGTGTGGCTTACAGAG   f=0.0000  GC=52.9%
+  Length 17 done
+
+>>> Optimizing Primer length=18 nt...
+  [#119 added] TCTGGTCGAGAGTTCGAA  f=0.0000  GC=50.0%
+  [#120 added] ACAGTCTTCTCAACGAGG  f=0.0000  GC=50.0%
+  [#121 added] GTCATTCGGTGCTGTCAC  f=0.0000  GC=55.6%
+  [#122 added] AGGAGATGAATTGACGCC  f=0.0000  GC=50.0%
+  [#123 added] CGCGGTACCGTTATATAG  f=0.0000  GC=50.0%
+  [#124 added] GCTTAGCGAAGGATTATC  f=0.0000  GC=44.4%
+  [#125 added] GTCCTACAGATCTTGCCA  f=0.0000  GC=50.0%
+  [#126 added] GATAGCCTGAGTGATAGA  f=0.0000  GC=44.4%
+  Length 18 done
+>>> Primer complete: 68 seqs
+
+============================================================
+FINAL VALIDATION
+============================================================
+  [Contact] ALL OK (27 seqs)
+  [Triplex] ALL OK (40 seqs)
+
+>>> Primer library optimized separately - no cross-check
+========== DESIGN COMPLETE ==========
+  Contact: 27  |  Triplex: 40  |  Primers: 68  |  Total: 135
+Outputs: ../data
+
+DONE C=27 T=40 P=68 Total=135 Time=242s
